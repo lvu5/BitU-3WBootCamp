@@ -1,0 +1,5 @@
+data type
+property
+indexing
+index
+slicing (Start with slicing)
