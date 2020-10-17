@@ -4,6 +4,6 @@ indexing
 index
 slicing
 step size
-immutable
+(im)mutable
 concatenate
 methods
