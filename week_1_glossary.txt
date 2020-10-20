@@ -7,3 +7,7 @@ step size
 (im)mutable
 concatenate
 methods
+nesting
+matrix
+mapping
+key-value pair
