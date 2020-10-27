@@ -11,3 +11,5 @@ nesting
 matrix
 mapping
 key-value pair
+iterable
+iterating
